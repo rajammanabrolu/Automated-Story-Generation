@@ -1,6 +1,6 @@
 Test data from the AAAI 2018 paper "Event Representations for Automated Story Generation with Deep Neural Nets" by Lara J. Martin, Prithviraj Ammanabrolu, Xinyu Wang, William Hancock, Shruti Singh, Brent Harrison, Mark O. Riedl
 
-The data is in the Data folder in the form of a split gzipped tarball. To access gzipped tarball please run
+The data is in the Data folder in the form of a split gzipped tarball. To access the gzipped tarball please run
 ```
 cat EventRepresentationDataRelease* > EventRepresentationDataRelease.tar.gz
 ```
